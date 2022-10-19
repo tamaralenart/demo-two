@@ -1,4 +1,6 @@
 # demo-two
 Example of GH repo starting on remote side with new branch name 
 
-Update reagme file 
+Update readme file
+
+Another quich update  
